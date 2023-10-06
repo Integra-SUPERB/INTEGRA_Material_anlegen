@@ -1,5 +1,9 @@
 # Create Material («Material anlegen»)
 
+Link to INTEGRA master repository  
+[INTEGRA](https://github.com/Integra-SUPERB/INTEGRA)
+
+
 ## Goal of this repository
 
 The repository "Create Material" is designed to enable cohesive management of material needs, costs, procurement, and inventory across various organizational processes. 
